@@ -48,6 +48,7 @@ wget==3.2
 # Agent
 lagent==0.2.2
 jionlp==1.5.14
+griffe==0.46.0
 
 # ASR
 funasr==1.0.27
